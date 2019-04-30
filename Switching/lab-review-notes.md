@@ -1,5 +1,8 @@
 # Lab Review Notes for Switching labs
 
+# To enable layer 3 interface on L3 switches:
+int <interface>
+no switchport
 
 # PAgP - LACP
 
